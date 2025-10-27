@@ -8,7 +8,9 @@ const newQuoteBtn = document.getElementById('new-quote-btn');
 // !!   IMPORTANT  !!
 // !!!!!!!!!!!!!!!!!!
 // PASTE YOUR RENDER BACKEND URL HERE:
-const BACKEND_URL = 'https://simple-quote-api-iw77.onrender.com';
+// const BACKEND_URL = 'https://simple-quote-api-iw77.onrender.com';
+// PASTE YOUR DOKPLOY BACKEND URL HERE:
+const BACKEND_URL = 'https://quote-api.your-dokploy-domain.com';
 
 
 // --- 2. DEFINE YOUR FUNCTIONS ---
