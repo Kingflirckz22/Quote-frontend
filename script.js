@@ -10,7 +10,7 @@ const newQuoteBtn = document.getElementById('new-quote-btn');
 // PASTE YOUR RENDER BACKEND URL HERE:
 // const BACKEND_URL = 'https://simple-quote-api-iw77.onrender.com';
 // PASTE YOUR DOKPLOY BACKEND URL HERE:
-const BACKEND_URL = 'quoteapk-quota-juaiwp-6cd9db-18-217-142-0.traefik.me';
+const BACKEND_URL = 'quote-e8kzl2-ccff97-3-150-110-170.traefik.me';
 
 
 // --- 2. DEFINE YOUR FUNCTIONS ---
