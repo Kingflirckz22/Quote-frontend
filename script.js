@@ -4,20 +4,16 @@
 const quoteDisplay = document.getElementById('quote-display');
 const newQuoteBtn = document.getElementById('new-quote-btn');
 
-// !!!!!!!!!!!!!!!!!!
-// !!   IMPORTANT  !!
-// !!!!!!!!!!!!!!!!!!
-// PASTE YOUR RENDER BACKEND URL HERE:
-// const BACKEND_URL = 'https://simple-quote-api-iw77.onrender.com';
+
 // PASTE YOUR DOKPLOY BACKEND URL HERE:
-const BACKEND_URL = 'quote-e8kzl2-ccff97-3-150-110-170.traefik.me';
+const BACKEND_URL = 'http://quote-e8kzl2-ccff97-3-150-110-170.traefik.me';
 
 
 // --- 2. DEFINE YOUR FUNCTIONS ---
 
 async function getNewQuote() {
   // Show a loading message
-  quoteDisplay.textContent = 'Loading...';
+  quoteDisplay.textContent = 'I day load....';
 
   try {
     // Use fetch() to make a request to your backend API
